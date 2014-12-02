@@ -20,7 +20,7 @@ module.exports = function(grunt) {
             },
             vendor: {
                 files: {
-                    'assets/js/vendor.min.js': [
+                    'assets/js/vendor.js': [
                         'assets/vendor/jquery/dist/jquery.js'
                     ]
                 }
